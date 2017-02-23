@@ -1,0 +1,5 @@
+ERROR - 19:57:09: java.net.MalformedURLException: unknown protocol: pathmap
+WARNING - 19:59:42: First conversion pass
+ERROR - 19:59:42: java.net.MalformedURLException: unknown protocol: pathmap
+WARNING - 20:00:27: First conversion pass
+ERROR - 20:00:27: java.net.MalformedURLException: unknown protocol: pathmap
